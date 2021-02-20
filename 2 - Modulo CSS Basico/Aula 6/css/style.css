@@ -1,0 +1,24 @@
+body {
+  background: #dfdfdf;
+  font-family: Arial, Helvetica, "Courier new", sans-serif;
+  color: rgb(34, 34, 34);
+}
+.foto-principal {
+  width: 200px;
+  border: 2px solid #ffffff;
+  border-radius: 50%;
+  margin: 30px;
+  padding: 10px;
+  box-shadow: 0px 0px 10px #ccc0c0; /*dist horiz, vertic, desfoq, cor*/
+}
+h1 {
+  margin-bottom: 0;
+  letter-spacing: -1px;
+}
+h2 {
+  margin-top: 0;
+  font-style: italic;
+  color: rgb(30, 30, 30);
+  font-weight: 100;
+  letter-spacing: -1px; /*alterar o espaçamento das letras na fonte*/
+}

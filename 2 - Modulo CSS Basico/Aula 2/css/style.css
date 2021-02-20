@@ -1,0 +1,13 @@
+body {
+  /*background: #dfdfdf; rgba (red, green, blue, alfa 0.0 a 1.0) // exadecimal #FA4b56*/
+  background-image: url(../img/brigadeiro-brazil.jpg);
+  background-repeat: no-repeat;
+  background-position: center center; /*alinha a imagem na tela de acordo com a posição definida
+                                        pode ser em % ou em direções (right, top, center...)*/
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+p {
+  color: rgb(34, 34, 34);
+}

@@ -1,0 +1,6 @@
+consultar dev tools para fazer testes de configuração na pagina
+
+ex: 
+fontes - usar dev tools simulando margin, padding, box model que a tag tem por padrão
+
+obs: toda tag tem padrões de estilos ja definidos

@@ -1,0 +1,13 @@
+modo de centralização de elemento HTML \CSS
+
+margin: primeiro valor, segundo valor;
+
+primeiro valor: se refere a dados do top e bottom 
+segundo valor: se refere a dados do left e right
+
+-------------------------------------------------
+
+margin: 0 auto; - centraliza elemento
+
+obs: é nessessário width para largura do elemento
+tag <div></div> == tag com valor 0px de width e height

@@ -1,0 +1,21 @@
+body {
+  background: #dfdfdf;
+  /*background-image: url(../img/brigadeiro-brazil.jpg);
+  background-repeat: no-repeat;
+  background-position: center center; /*alinha a imagem na tela de acordo com a posição definida
+                                        pode ser em % ou em direções (right, top, center...)*/
+  /*background-size: cover;
+  background-attachment: fixed;*/
+}
+.foto-principal {
+  width: 200px;
+  border: 2px solid #ffffff;
+  /*border é apenas uma propriedade shorthand que simplifica o uso 
+    de varias outras propriedades (width, style, color)
+    border-side -- alterar laterais das bordas independentemente*/
+  border-radius: 50%;
+}
+
+p {
+  color: rgb(34, 34, 34);
+}
